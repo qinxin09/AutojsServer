@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutojsServer</string>
+    <string name="a">Answer</string>
+    <string name="b">Video</string>
+    <string name="c">Decline</string>
+    <string name="d">Hang Up</string>
+    <string name="e">Incoming call</string>
+    <string name="f">Ongoing call</string>
+    <string name="g">Screening an incoming call</string>
+    <string name="h">999+</string>
+    <string name="i">AutoJsPro Server</string>
+</resources>

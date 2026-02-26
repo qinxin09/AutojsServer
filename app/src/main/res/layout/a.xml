@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/black">
+    <Button
+        android:textSize="26.0sp"
+        android:textStyle="bold"
+        android:id="@+id/vpnbtn"
+        android:layout_width="250.0dip"
+        android:layout_height="250.0dip"
+        android:text="点击开启 autojs本地服务器"
+        android:background="@drawable/a"
+        />
+    <Button
+        android:textStyle="bold"
+        android:id="@+id/launchAutojsPro"
+        android:backgroundTint="@android:color/holo_green_dark"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_margin="10dp"
+        android:padding="15dp"
+        android:text="打开AutojsPro"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:layout_gravity="bottom"
+        />
+    <Button
+        android:textStyle="bold"
+        android:id="@+id/offlineVersion"
+        android:backgroundTint="@android:color/holo_green_dark"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_margin="10dp"
+        android:padding="15dp"
+        android:text="想用离线版"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:layout_gravity="bottom"
+        />
+</LinearLayout>
