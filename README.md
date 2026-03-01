@@ -17,7 +17,7 @@ AutojsServer 是一个基于 Android 平台的高级网络分析工具。它通�
 2. **协议分析技术**：HTTP/HTTPS 流量的实时抓取、Header 分析及 Body 数据还原。
 3. **中间人（MITM）原理**：在本地环境下模拟服务器响应，用于调试和分析封闭协议（如 Auto.js Pro 的通信逻辑）。
 
-![image-20260301085838016](E:\AndroidStudio\AutojsServer\assets\image-20260301085838016-1772329496837-4.png)
+![image-20260301085838016](/assets/image-20260301085838016-1772329496837-4.png)
 
 ## **🛠️ 核心技术栈**
 
